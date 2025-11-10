@@ -1,17 +1,20 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![wang3889](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Hello, I am a student at Macao Polytechnic University(MPU). It's nice to meet you.\
+你好，我是澳门理工大学的一名学生，很高兴认识你。
 
-#### Contact
+#### Contact 联系
 
-Email: senli[at]fas.harvard.edu
+Email: wangxinlin0626[at]163.com
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### Education 学历
+Now studying at Macao Polytechnic University\
+现就读于澳门理工大学
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+
+#### Major 专业
+计算机科学与技术\
+Computer science and its Application
 
