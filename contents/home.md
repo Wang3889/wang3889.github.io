@@ -1,6 +1,6 @@
 
 
-[![wang3889](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![wang3889](https://img.shields.io/badge/Wang3889-github-blue?logo=github)](https://github.com/Wang3889)
 
 Hello, I am a student at Macao Polytechnic University(MPU). It's nice to meet you.\
 你好，我是澳门理工大学的一名学生，很高兴认识你。
