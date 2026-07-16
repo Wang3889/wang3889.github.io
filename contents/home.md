@@ -7,7 +7,7 @@ Hello, I am a student at Macao Polytechnic University(MPU). It's nice to meet yo
 
 #### Contact 联系
 
-Email: wangxinlin0626@163.com
+Email: wangxinlin0626[at]163.com
 
 #### Education 学历
 Now studying at Macao Polytechnic University\
